@@ -1,12 +1,6 @@
 <p align="center">
   <img src="assets/ideaguard-banner.svg" width="100%" />
 </p>
-
-<h1 align="center">🛡️ IDEAGUARD</h1>
-
-<p align="center">
-  AI-Powered Project Originality & Similarity Detection
-</p>
 <p align="center">
   <b>Protect Your Innovation. Discover What's Different.</b>
 </p>
