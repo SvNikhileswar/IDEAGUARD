@@ -1,0 +1,3752 @@
+[
+ {
+  "title": "Attendance AI",
+  "domain": "Education",
+  "description": "An AI-powered system using computer vision and machine learning that marks and tracks student attendance in classrooms.",
+  "features": [
+   "Automatic attendance sheet",
+   "Proxy attendance prevention",
+   "Monthly attendance reports",
+   "Machine learning model",
+   "Automated alerts"
+  ],
+  "tech_stack": [
+   "Python",
+   "TensorFlow",
+   "Flask"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/1"
+ },
+ {
+  "title": "Attendance App",
+  "domain": "Education",
+  "description": "A mobile app that marks and tracks student attendance in classrooms.",
+  "features": [
+   "Automatic attendance sheet",
+   "Proxy attendance prevention",
+   "Monthly attendance reports",
+   "Simple mobile interface",
+   "Push notifications"
+  ],
+  "tech_stack": [
+   "Flutter",
+   "Firebase"
+  ],
+  "source": "Devpost",
+  "url": "https://example.com/projects/2"
+ },
+ {
+  "title": "Attendance IoT",
+  "domain": "Education",
+  "description": "A low-cost IoT solution using sensors that marks and tracks student attendance in classrooms.",
+  "features": [
+   "Automatic attendance sheet",
+   "Proxy attendance prevention",
+   "Monthly attendance reports",
+   "Sensor data capture",
+   "Real-time monitoring"
+  ],
+  "tech_stack": [
+   "Arduino",
+   "ESP32",
+   "MQTT"
+  ],
+  "source": "College",
+  "url": "https://example.com/projects/3"
+ },
+ {
+  "title": "Attendance Hub",
+  "domain": "Education",
+  "description": "A web dashboard with a chatbot that marks and tracks student attendance in classrooms.",
+  "features": [
+   "Automatic attendance sheet",
+   "Proxy attendance prevention",
+   "Monthly attendance reports",
+   "Central dashboard",
+   "Chatbot assistant"
+  ],
+  "tech_stack": [
+   "React",
+   "Node.js",
+   "MongoDB"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/4"
+ },
+ {
+  "title": "Library AI",
+  "domain": "Education",
+  "description": "An AI-powered system using computer vision and machine learning that simplifies book search, issue and return in college libraries.",
+  "features": [
+   "Book search",
+   "Due date reminders",
+   "Issue and return history",
+   "Machine learning model",
+   "Automated alerts"
+  ],
+  "tech_stack": [
+   "Python",
+   "TensorFlow",
+   "Flask"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/5"
+ },
+ {
+  "title": "Library App",
+  "domain": "Education",
+  "description": "A mobile app that simplifies book search, issue and return in college libraries.",
+  "features": [
+   "Book search",
+   "Due date reminders",
+   "Issue and return history",
+   "Simple mobile interface",
+   "Push notifications"
+  ],
+  "tech_stack": [
+   "Flutter",
+   "Firebase"
+  ],
+  "source": "Devpost",
+  "url": "https://example.com/projects/6"
+ },
+ {
+  "title": "Library IoT",
+  "domain": "Education",
+  "description": "A low-cost IoT solution using sensors that simplifies book search, issue and return in college libraries.",
+  "features": [
+   "Book search",
+   "Due date reminders",
+   "Issue and return history",
+   "Sensor data capture",
+   "Real-time monitoring"
+  ],
+  "tech_stack": [
+   "Arduino",
+   "ESP32",
+   "MQTT"
+  ],
+  "source": "College",
+  "url": "https://example.com/projects/7"
+ },
+ {
+  "title": "Library Hub",
+  "domain": "Education",
+  "description": "A web dashboard with a chatbot that simplifies book search, issue and return in college libraries.",
+  "features": [
+   "Book search",
+   "Due date reminders",
+   "Issue and return history",
+   "Central dashboard",
+   "Chatbot assistant"
+  ],
+  "tech_stack": [
+   "React",
+   "Node.js",
+   "MongoDB"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/8"
+ },
+ {
+  "title": "Notes AI",
+  "domain": "Education",
+  "description": "An AI-powered system using computer vision and machine learning that helps students organise and share lecture notes.",
+  "features": [
+   "Subject-wise folders",
+   "Note summaries",
+   "Peer sharing",
+   "Machine learning model",
+   "Automated alerts"
+  ],
+  "tech_stack": [
+   "Python",
+   "TensorFlow",
+   "Flask"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/9"
+ },
+ {
+  "title": "Notes App",
+  "domain": "Education",
+  "description": "A mobile app that helps students organise and share lecture notes.",
+  "features": [
+   "Subject-wise folders",
+   "Note summaries",
+   "Peer sharing",
+   "Simple mobile interface",
+   "Push notifications"
+  ],
+  "tech_stack": [
+   "Flutter",
+   "Firebase"
+  ],
+  "source": "Devpost",
+  "url": "https://example.com/projects/10"
+ },
+ {
+  "title": "Notes IoT",
+  "domain": "Education",
+  "description": "A low-cost IoT solution using sensors that helps students organise and share lecture notes.",
+  "features": [
+   "Subject-wise folders",
+   "Note summaries",
+   "Peer sharing",
+   "Sensor data capture",
+   "Real-time monitoring"
+  ],
+  "tech_stack": [
+   "Arduino",
+   "ESP32",
+   "MQTT"
+  ],
+  "source": "College",
+  "url": "https://example.com/projects/11"
+ },
+ {
+  "title": "Notes Hub",
+  "domain": "Education",
+  "description": "A web dashboard with a chatbot that helps students organise and share lecture notes.",
+  "features": [
+   "Subject-wise folders",
+   "Note summaries",
+   "Peer sharing",
+   "Central dashboard",
+   "Chatbot assistant"
+  ],
+  "tech_stack": [
+   "React",
+   "Node.js",
+   "MongoDB"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/12"
+ },
+ {
+  "title": "Timetable AI",
+  "domain": "Education",
+  "description": "An AI-powered system using computer vision and machine learning that creates and updates class timetables and room allocation.",
+  "features": [
+   "Clash detection",
+   "Room allocation",
+   "Change notifications",
+   "Machine learning model",
+   "Automated alerts"
+  ],
+  "tech_stack": [
+   "Python",
+   "TensorFlow",
+   "Flask"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/13"
+ },
+ {
+  "title": "Timetable App",
+  "domain": "Education",
+  "description": "A mobile app that creates and updates class timetables and room allocation.",
+  "features": [
+   "Clash detection",
+   "Room allocation",
+   "Change notifications",
+   "Simple mobile interface",
+   "Push notifications"
+  ],
+  "tech_stack": [
+   "Flutter",
+   "Firebase"
+  ],
+  "source": "Devpost",
+  "url": "https://example.com/projects/14"
+ },
+ {
+  "title": "Timetable IoT",
+  "domain": "Education",
+  "description": "A low-cost IoT solution using sensors that creates and updates class timetables and room allocation.",
+  "features": [
+   "Clash detection",
+   "Room allocation",
+   "Change notifications",
+   "Sensor data capture",
+   "Real-time monitoring"
+  ],
+  "tech_stack": [
+   "Arduino",
+   "ESP32",
+   "MQTT"
+  ],
+  "source": "College",
+  "url": "https://example.com/projects/15"
+ },
+ {
+  "title": "Timetable Hub",
+  "domain": "Education",
+  "description": "A web dashboard with a chatbot that creates and updates class timetables and room allocation.",
+  "features": [
+   "Clash detection",
+   "Room allocation",
+   "Change notifications",
+   "Central dashboard",
+   "Chatbot assistant"
+  ],
+  "tech_stack": [
+   "React",
+   "Node.js",
+   "MongoDB"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/16"
+ },
+ {
+  "title": "Doubt AI",
+  "domain": "Education",
+  "description": "An AI-powered system using computer vision and machine learning that answers student doubts quickly outside class hours.",
+  "features": [
+   "Question tagging",
+   "Instant answers",
+   "Teacher escalation",
+   "Machine learning model",
+   "Automated alerts"
+  ],
+  "tech_stack": [
+   "Python",
+   "TensorFlow",
+   "Flask"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/17"
+ },
+ {
+  "title": "Doubt App",
+  "domain": "Education",
+  "description": "A mobile app that answers student doubts quickly outside class hours.",
+  "features": [
+   "Question tagging",
+   "Instant answers",
+   "Teacher escalation",
+   "Simple mobile interface",
+   "Push notifications"
+  ],
+  "tech_stack": [
+   "Flutter",
+   "Firebase"
+  ],
+  "source": "Devpost",
+  "url": "https://example.com/projects/18"
+ },
+ {
+  "title": "Doubt IoT",
+  "domain": "Education",
+  "description": "A low-cost IoT solution using sensors that answers student doubts quickly outside class hours.",
+  "features": [
+   "Question tagging",
+   "Instant answers",
+   "Teacher escalation",
+   "Sensor data capture",
+   "Real-time monitoring"
+  ],
+  "tech_stack": [
+   "Arduino",
+   "ESP32",
+   "MQTT"
+  ],
+  "source": "College",
+  "url": "https://example.com/projects/19"
+ },
+ {
+  "title": "Doubt Hub",
+  "domain": "Education",
+  "description": "A web dashboard with a chatbot that answers student doubts quickly outside class hours.",
+  "features": [
+   "Question tagging",
+   "Instant answers",
+   "Teacher escalation",
+   "Central dashboard",
+   "Chatbot assistant"
+  ],
+  "tech_stack": [
+   "React",
+   "Node.js",
+   "MongoDB"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/20"
+ },
+ {
+  "title": "Appointments AI",
+  "domain": "Health",
+  "description": "An AI-powered system using computer vision and machine learning that reduces hospital OPD queues with appointment booking.",
+  "features": [
+   "Slot booking",
+   "Queue status",
+   "Reminders",
+   "Machine learning model",
+   "Automated alerts"
+  ],
+  "tech_stack": [
+   "Python",
+   "TensorFlow",
+   "Flask"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/21"
+ },
+ {
+  "title": "Appointments App",
+  "domain": "Health",
+  "description": "A mobile app that reduces hospital OPD queues with appointment booking.",
+  "features": [
+   "Slot booking",
+   "Queue status",
+   "Reminders",
+   "Simple mobile interface",
+   "Push notifications"
+  ],
+  "tech_stack": [
+   "Flutter",
+   "Firebase"
+  ],
+  "source": "Devpost",
+  "url": "https://example.com/projects/22"
+ },
+ {
+  "title": "Appointments IoT",
+  "domain": "Health",
+  "description": "A low-cost IoT solution using sensors that reduces hospital OPD queues with appointment booking.",
+  "features": [
+   "Slot booking",
+   "Queue status",
+   "Reminders",
+   "Sensor data capture",
+   "Real-time monitoring"
+  ],
+  "tech_stack": [
+   "Arduino",
+   "ESP32",
+   "MQTT"
+  ],
+  "source": "College",
+  "url": "https://example.com/projects/23"
+ },
+ {
+  "title": "Appointments Hub",
+  "domain": "Health",
+  "description": "A web dashboard with a chatbot that reduces hospital OPD queues with appointment booking.",
+  "features": [
+   "Slot booking",
+   "Queue status",
+   "Reminders",
+   "Central dashboard",
+   "Chatbot assistant"
+  ],
+  "tech_stack": [
+   "React",
+   "Node.js",
+   "MongoDB"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/24"
+ },
+ {
+  "title": "Medicine AI",
+  "domain": "Health",
+  "description": "An AI-powered system using computer vision and machine learning that reminds patients to take medicines on time.",
+  "features": [
+   "Dose reminders",
+   "Prescription storage",
+   "Refill alerts",
+   "Machine learning model",
+   "Automated alerts"
+  ],
+  "tech_stack": [
+   "Python",
+   "TensorFlow",
+   "Flask"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/25"
+ },
+ {
+  "title": "Medicine App",
+  "domain": "Health",
+  "description": "A mobile app that reminds patients to take medicines on time.",
+  "features": [
+   "Dose reminders",
+   "Prescription storage",
+   "Refill alerts",
+   "Simple mobile interface",
+   "Push notifications"
+  ],
+  "tech_stack": [
+   "Flutter",
+   "Firebase"
+  ],
+  "source": "Devpost",
+  "url": "https://example.com/projects/26"
+ },
+ {
+  "title": "Medicine IoT",
+  "domain": "Health",
+  "description": "A low-cost IoT solution using sensors that reminds patients to take medicines on time.",
+  "features": [
+   "Dose reminders",
+   "Prescription storage",
+   "Refill alerts",
+   "Sensor data capture",
+   "Real-time monitoring"
+  ],
+  "tech_stack": [
+   "Arduino",
+   "ESP32",
+   "MQTT"
+  ],
+  "source": "College",
+  "url": "https://example.com/projects/27"
+ },
+ {
+  "title": "Medicine Hub",
+  "domain": "Health",
+  "description": "A web dashboard with a chatbot that reminds patients to take medicines on time.",
+  "features": [
+   "Dose reminders",
+   "Prescription storage",
+   "Refill alerts",
+   "Central dashboard",
+   "Chatbot assistant"
+  ],
+  "tech_stack": [
+   "React",
+   "Node.js",
+   "MongoDB"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/28"
+ },
+ {
+  "title": "Symptoms AI",
+  "domain": "Health",
+  "description": "An AI-powered system using computer vision and machine learning that gives first-level guidance based on symptoms.",
+  "features": [
+   "Symptom checker",
+   "Nearby clinics",
+   "Emergency contacts",
+   "Machine learning model",
+   "Automated alerts"
+  ],
+  "tech_stack": [
+   "Python",
+   "TensorFlow",
+   "Flask"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/29"
+ },
+ {
+  "title": "Symptoms App",
+  "domain": "Health",
+  "description": "A mobile app that gives first-level guidance based on symptoms.",
+  "features": [
+   "Symptom checker",
+   "Nearby clinics",
+   "Emergency contacts",
+   "Simple mobile interface",
+   "Push notifications"
+  ],
+  "tech_stack": [
+   "Flutter",
+   "Firebase"
+  ],
+  "source": "Devpost",
+  "url": "https://example.com/projects/30"
+ },
+ {
+  "title": "Symptoms IoT",
+  "domain": "Health",
+  "description": "A low-cost IoT solution using sensors that gives first-level guidance based on symptoms.",
+  "features": [
+   "Symptom checker",
+   "Nearby clinics",
+   "Emergency contacts",
+   "Sensor data capture",
+   "Real-time monitoring"
+  ],
+  "tech_stack": [
+   "Arduino",
+   "ESP32",
+   "MQTT"
+  ],
+  "source": "College",
+  "url": "https://example.com/projects/31"
+ },
+ {
+  "title": "Symptoms Hub",
+  "domain": "Health",
+  "description": "A web dashboard with a chatbot that gives first-level guidance based on symptoms.",
+  "features": [
+   "Symptom checker",
+   "Nearby clinics",
+   "Emergency contacts",
+   "Central dashboard",
+   "Chatbot assistant"
+  ],
+  "tech_stack": [
+   "React",
+   "Node.js",
+   "MongoDB"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/32"
+ },
+ {
+  "title": "Records AI",
+  "domain": "Health",
+  "description": "An AI-powered system using computer vision and machine learning that keeps patient health records in one place.",
+  "features": [
+   "Digital records",
+   "Doctor sharing",
+   "Report history",
+   "Machine learning model",
+   "Automated alerts"
+  ],
+  "tech_stack": [
+   "Python",
+   "TensorFlow",
+   "Flask"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/33"
+ },
+ {
+  "title": "Records App",
+  "domain": "Health",
+  "description": "A mobile app that keeps patient health records in one place.",
+  "features": [
+   "Digital records",
+   "Doctor sharing",
+   "Report history",
+   "Simple mobile interface",
+   "Push notifications"
+  ],
+  "tech_stack": [
+   "Flutter",
+   "Firebase"
+  ],
+  "source": "Devpost",
+  "url": "https://example.com/projects/34"
+ },
+ {
+  "title": "Records IoT",
+  "domain": "Health",
+  "description": "A low-cost IoT solution using sensors that keeps patient health records in one place.",
+  "features": [
+   "Digital records",
+   "Doctor sharing",
+   "Report history",
+   "Sensor data capture",
+   "Real-time monitoring"
+  ],
+  "tech_stack": [
+   "Arduino",
+   "ESP32",
+   "MQTT"
+  ],
+  "source": "College",
+  "url": "https://example.com/projects/35"
+ },
+ {
+  "title": "Records Hub",
+  "domain": "Health",
+  "description": "A web dashboard with a chatbot that keeps patient health records in one place.",
+  "features": [
+   "Digital records",
+   "Doctor sharing",
+   "Report history",
+   "Central dashboard",
+   "Chatbot assistant"
+  ],
+  "tech_stack": [
+   "React",
+   "Node.js",
+   "MongoDB"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/36"
+ },
+ {
+  "title": "Elderly AI",
+  "domain": "Health",
+  "description": "An AI-powered system using computer vision and machine learning that monitors the safety and health of elderly people at home.",
+  "features": [
+   "Fall detection",
+   "Vitals tracking",
+   "Family alerts",
+   "Machine learning model",
+   "Automated alerts"
+  ],
+  "tech_stack": [
+   "Python",
+   "TensorFlow",
+   "Flask"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/37"
+ },
+ {
+  "title": "Elderly App",
+  "domain": "Health",
+  "description": "A mobile app that monitors the safety and health of elderly people at home.",
+  "features": [
+   "Fall detection",
+   "Vitals tracking",
+   "Family alerts",
+   "Simple mobile interface",
+   "Push notifications"
+  ],
+  "tech_stack": [
+   "Flutter",
+   "Firebase"
+  ],
+  "source": "Devpost",
+  "url": "https://example.com/projects/38"
+ },
+ {
+  "title": "Elderly IoT",
+  "domain": "Health",
+  "description": "A low-cost IoT solution using sensors that monitors the safety and health of elderly people at home.",
+  "features": [
+   "Fall detection",
+   "Vitals tracking",
+   "Family alerts",
+   "Sensor data capture",
+   "Real-time monitoring"
+  ],
+  "tech_stack": [
+   "Arduino",
+   "ESP32",
+   "MQTT"
+  ],
+  "source": "College",
+  "url": "https://example.com/projects/39"
+ },
+ {
+  "title": "Elderly Hub",
+  "domain": "Health",
+  "description": "A web dashboard with a chatbot that monitors the safety and health of elderly people at home.",
+  "features": [
+   "Fall detection",
+   "Vitals tracking",
+   "Family alerts",
+   "Central dashboard",
+   "Chatbot assistant"
+  ],
+  "tech_stack": [
+   "React",
+   "Node.js",
+   "MongoDB"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/40"
+ },
+ {
+  "title": "Crop Disease AI",
+  "domain": "Agriculture",
+  "description": "An AI-powered system using computer vision and machine learning that detects crop diseases from leaf photos.",
+  "features": [
+   "Disease detection",
+   "Treatment advice",
+   "Local language support",
+   "Machine learning model",
+   "Automated alerts"
+  ],
+  "tech_stack": [
+   "Python",
+   "TensorFlow",
+   "Flask"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/41"
+ },
+ {
+  "title": "Crop Disease App",
+  "domain": "Agriculture",
+  "description": "A mobile app that detects crop diseases from leaf photos.",
+  "features": [
+   "Disease detection",
+   "Treatment advice",
+   "Local language support",
+   "Simple mobile interface",
+   "Push notifications"
+  ],
+  "tech_stack": [
+   "Flutter",
+   "Firebase"
+  ],
+  "source": "Devpost",
+  "url": "https://example.com/projects/42"
+ },
+ {
+  "title": "Crop Disease IoT",
+  "domain": "Agriculture",
+  "description": "A low-cost IoT solution using sensors that detects crop diseases from leaf photos.",
+  "features": [
+   "Disease detection",
+   "Treatment advice",
+   "Local language support",
+   "Sensor data capture",
+   "Real-time monitoring"
+  ],
+  "tech_stack": [
+   "Arduino",
+   "ESP32",
+   "MQTT"
+  ],
+  "source": "College",
+  "url": "https://example.com/projects/43"
+ },
+ {
+  "title": "Crop Disease Hub",
+  "domain": "Agriculture",
+  "description": "A web dashboard with a chatbot that detects crop diseases from leaf photos.",
+  "features": [
+   "Disease detection",
+   "Treatment advice",
+   "Local language support",
+   "Central dashboard",
+   "Chatbot assistant"
+  ],
+  "tech_stack": [
+   "React",
+   "Node.js",
+   "MongoDB"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/44"
+ },
+ {
+  "title": "Irrigation AI",
+  "domain": "Agriculture",
+  "description": "An AI-powered system using computer vision and machine learning that optimises water use for irrigation.",
+  "features": [
+   "Soil moisture tracking",
+   "Auto watering",
+   "Water usage reports",
+   "Machine learning model",
+   "Automated alerts"
+  ],
+  "tech_stack": [
+   "Python",
+   "TensorFlow",
+   "Flask"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/45"
+ },
+ {
+  "title": "Irrigation App",
+  "domain": "Agriculture",
+  "description": "A mobile app that optimises water use for irrigation.",
+  "features": [
+   "Soil moisture tracking",
+   "Auto watering",
+   "Water usage reports",
+   "Simple mobile interface",
+   "Push notifications"
+  ],
+  "tech_stack": [
+   "Flutter",
+   "Firebase"
+  ],
+  "source": "Devpost",
+  "url": "https://example.com/projects/46"
+ },
+ {
+  "title": "Irrigation IoT",
+  "domain": "Agriculture",
+  "description": "A low-cost IoT solution using sensors that optimises water use for irrigation.",
+  "features": [
+   "Soil moisture tracking",
+   "Auto watering",
+   "Water usage reports",
+   "Sensor data capture",
+   "Real-time monitoring"
+  ],
+  "tech_stack": [
+   "Arduino",
+   "ESP32",
+   "MQTT"
+  ],
+  "source": "College",
+  "url": "https://example.com/projects/47"
+ },
+ {
+  "title": "Irrigation Hub",
+  "domain": "Agriculture",
+  "description": "A web dashboard with a chatbot that optimises water use for irrigation.",
+  "features": [
+   "Soil moisture tracking",
+   "Auto watering",
+   "Water usage reports",
+   "Central dashboard",
+   "Chatbot assistant"
+  ],
+  "tech_stack": [
+   "React",
+   "Node.js",
+   "MongoDB"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/48"
+ },
+ {
+  "title": "Market Price AI",
+  "domain": "Agriculture",
+  "description": "An AI-powered system using computer vision and machine learning that shows live crop prices from nearby markets.",
+  "features": [
+   "Price tracking",
+   "Best market finder",
+   "Price alerts",
+   "Machine learning model",
+   "Automated alerts"
+  ],
+  "tech_stack": [
+   "Python",
+   "TensorFlow",
+   "Flask"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/49"
+ },
+ {
+  "title": "Market Price App",
+  "domain": "Agriculture",
+  "description": "A mobile app that shows live crop prices from nearby markets.",
+  "features": [
+   "Price tracking",
+   "Best market finder",
+   "Price alerts",
+   "Simple mobile interface",
+   "Push notifications"
+  ],
+  "tech_stack": [
+   "Flutter",
+   "Firebase"
+  ],
+  "source": "Devpost",
+  "url": "https://example.com/projects/50"
+ },
+ {
+  "title": "Market Price IoT",
+  "domain": "Agriculture",
+  "description": "A low-cost IoT solution using sensors that shows live crop prices from nearby markets.",
+  "features": [
+   "Price tracking",
+   "Best market finder",
+   "Price alerts",
+   "Sensor data capture",
+   "Real-time monitoring"
+  ],
+  "tech_stack": [
+   "Arduino",
+   "ESP32",
+   "MQTT"
+  ],
+  "source": "College",
+  "url": "https://example.com/projects/51"
+ },
+ {
+  "title": "Market Price Hub",
+  "domain": "Agriculture",
+  "description": "A web dashboard with a chatbot that shows live crop prices from nearby markets.",
+  "features": [
+   "Price tracking",
+   "Best market finder",
+   "Price alerts",
+   "Central dashboard",
+   "Chatbot assistant"
+  ],
+  "tech_stack": [
+   "React",
+   "Node.js",
+   "MongoDB"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/52"
+ },
+ {
+  "title": "Yield AI",
+  "domain": "Agriculture",
+  "description": "An AI-powered system using computer vision and machine learning that predicts crop yield for farmers.",
+  "features": [
+   "Yield prediction",
+   "Weather inputs",
+   "Season planning",
+   "Machine learning model",
+   "Automated alerts"
+  ],
+  "tech_stack": [
+   "Python",
+   "TensorFlow",
+   "Flask"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/53"
+ },
+ {
+  "title": "Yield App",
+  "domain": "Agriculture",
+  "description": "A mobile app that predicts crop yield for farmers.",
+  "features": [
+   "Yield prediction",
+   "Weather inputs",
+   "Season planning",
+   "Simple mobile interface",
+   "Push notifications"
+  ],
+  "tech_stack": [
+   "Flutter",
+   "Firebase"
+  ],
+  "source": "Devpost",
+  "url": "https://example.com/projects/54"
+ },
+ {
+  "title": "Yield IoT",
+  "domain": "Agriculture",
+  "description": "A low-cost IoT solution using sensors that predicts crop yield for farmers.",
+  "features": [
+   "Yield prediction",
+   "Weather inputs",
+   "Season planning",
+   "Sensor data capture",
+   "Real-time monitoring"
+  ],
+  "tech_stack": [
+   "Arduino",
+   "ESP32",
+   "MQTT"
+  ],
+  "source": "College",
+  "url": "https://example.com/projects/55"
+ },
+ {
+  "title": "Yield Hub",
+  "domain": "Agriculture",
+  "description": "A web dashboard with a chatbot that predicts crop yield for farmers.",
+  "features": [
+   "Yield prediction",
+   "Weather inputs",
+   "Season planning",
+   "Central dashboard",
+   "Chatbot assistant"
+  ],
+  "tech_stack": [
+   "React",
+   "Node.js",
+   "MongoDB"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/56"
+ },
+ {
+  "title": "Storage AI",
+  "domain": "Agriculture",
+  "description": "An AI-powered system using computer vision and machine learning that monitors grain storage conditions to reduce spoilage.",
+  "features": [
+   "Humidity monitoring",
+   "Spoilage alerts",
+   "Storage logs",
+   "Machine learning model",
+   "Automated alerts"
+  ],
+  "tech_stack": [
+   "Python",
+   "TensorFlow",
+   "Flask"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/57"
+ },
+ {
+  "title": "Storage App",
+  "domain": "Agriculture",
+  "description": "A mobile app that monitors grain storage conditions to reduce spoilage.",
+  "features": [
+   "Humidity monitoring",
+   "Spoilage alerts",
+   "Storage logs",
+   "Simple mobile interface",
+   "Push notifications"
+  ],
+  "tech_stack": [
+   "Flutter",
+   "Firebase"
+  ],
+  "source": "Devpost",
+  "url": "https://example.com/projects/58"
+ },
+ {
+  "title": "Storage IoT",
+  "domain": "Agriculture",
+  "description": "A low-cost IoT solution using sensors that monitors grain storage conditions to reduce spoilage.",
+  "features": [
+   "Humidity monitoring",
+   "Spoilage alerts",
+   "Storage logs",
+   "Sensor data capture",
+   "Real-time monitoring"
+  ],
+  "tech_stack": [
+   "Arduino",
+   "ESP32",
+   "MQTT"
+  ],
+  "source": "College",
+  "url": "https://example.com/projects/59"
+ },
+ {
+  "title": "Storage Hub",
+  "domain": "Agriculture",
+  "description": "A web dashboard with a chatbot that monitors grain storage conditions to reduce spoilage.",
+  "features": [
+   "Humidity monitoring",
+   "Spoilage alerts",
+   "Storage logs",
+   "Central dashboard",
+   "Chatbot assistant"
+  ],
+  "tech_stack": [
+   "React",
+   "Node.js",
+   "MongoDB"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/60"
+ },
+ {
+  "title": "Expenses AI",
+  "domain": "Finance",
+  "description": "An AI-powered system using computer vision and machine learning that tracks personal expenses and budgets.",
+  "features": [
+   "Expense categories",
+   "Budget limits",
+   "Monthly insights",
+   "Machine learning model",
+   "Automated alerts"
+  ],
+  "tech_stack": [
+   "Python",
+   "TensorFlow",
+   "Flask"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/61"
+ },
+ {
+  "title": "Expenses App",
+  "domain": "Finance",
+  "description": "A mobile app that tracks personal expenses and budgets.",
+  "features": [
+   "Expense categories",
+   "Budget limits",
+   "Monthly insights",
+   "Simple mobile interface",
+   "Push notifications"
+  ],
+  "tech_stack": [
+   "Flutter",
+   "Firebase"
+  ],
+  "source": "Devpost",
+  "url": "https://example.com/projects/62"
+ },
+ {
+  "title": "Expenses IoT",
+  "domain": "Finance",
+  "description": "A low-cost IoT solution using sensors that tracks personal expenses and budgets.",
+  "features": [
+   "Expense categories",
+   "Budget limits",
+   "Monthly insights",
+   "Sensor data capture",
+   "Real-time monitoring"
+  ],
+  "tech_stack": [
+   "Arduino",
+   "ESP32",
+   "MQTT"
+  ],
+  "source": "College",
+  "url": "https://example.com/projects/63"
+ },
+ {
+  "title": "Expenses Hub",
+  "domain": "Finance",
+  "description": "A web dashboard with a chatbot that tracks personal expenses and budgets.",
+  "features": [
+   "Expense categories",
+   "Budget limits",
+   "Monthly insights",
+   "Central dashboard",
+   "Chatbot assistant"
+  ],
+  "tech_stack": [
+   "React",
+   "Node.js",
+   "MongoDB"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/64"
+ },
+ {
+  "title": "Billing AI",
+  "domain": "Finance",
+  "description": "An AI-powered system using computer vision and machine learning that automates billing and invoicing for small shops.",
+  "features": [
+   "Invoice generation",
+   "GST support",
+   "Sales reports",
+   "Machine learning model",
+   "Automated alerts"
+  ],
+  "tech_stack": [
+   "Python",
+   "TensorFlow",
+   "Flask"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/65"
+ },
+ {
+  "title": "Billing App",
+  "domain": "Finance",
+  "description": "A mobile app that automates billing and invoicing for small shops.",
+  "features": [
+   "Invoice generation",
+   "GST support",
+   "Sales reports",
+   "Simple mobile interface",
+   "Push notifications"
+  ],
+  "tech_stack": [
+   "Flutter",
+   "Firebase"
+  ],
+  "source": "Devpost",
+  "url": "https://example.com/projects/66"
+ },
+ {
+  "title": "Billing IoT",
+  "domain": "Finance",
+  "description": "A low-cost IoT solution using sensors that automates billing and invoicing for small shops.",
+  "features": [
+   "Invoice generation",
+   "GST support",
+   "Sales reports",
+   "Sensor data capture",
+   "Real-time monitoring"
+  ],
+  "tech_stack": [
+   "Arduino",
+   "ESP32",
+   "MQTT"
+  ],
+  "source": "College",
+  "url": "https://example.com/projects/67"
+ },
+ {
+  "title": "Billing Hub",
+  "domain": "Finance",
+  "description": "A web dashboard with a chatbot that automates billing and invoicing for small shops.",
+  "features": [
+   "Invoice generation",
+   "GST support",
+   "Sales reports",
+   "Central dashboard",
+   "Chatbot assistant"
+  ],
+  "tech_stack": [
+   "React",
+   "Node.js",
+   "MongoDB"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/68"
+ },
+ {
+  "title": "Bill Reminder AI",
+  "domain": "Finance",
+  "description": "An AI-powered system using computer vision and machine learning that keeps track of monthly bills and due dates.",
+  "features": [
+   "Due date alerts",
+   "Bill history",
+   "Auto categorisation",
+   "Machine learning model",
+   "Automated alerts"
+  ],
+  "tech_stack": [
+   "Python",
+   "TensorFlow",
+   "Flask"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/69"
+ },
+ {
+  "title": "Bill Reminder App",
+  "domain": "Finance",
+  "description": "A mobile app that keeps track of monthly bills and due dates.",
+  "features": [
+   "Due date alerts",
+   "Bill history",
+   "Auto categorisation",
+   "Simple mobile interface",
+   "Push notifications"
+  ],
+  "tech_stack": [
+   "Flutter",
+   "Firebase"
+  ],
+  "source": "Devpost",
+  "url": "https://example.com/projects/70"
+ },
+ {
+  "title": "Bill Reminder IoT",
+  "domain": "Finance",
+  "description": "A low-cost IoT solution using sensors that keeps track of monthly bills and due dates.",
+  "features": [
+   "Due date alerts",
+   "Bill history",
+   "Auto categorisation",
+   "Sensor data capture",
+   "Real-time monitoring"
+  ],
+  "tech_stack": [
+   "Arduino",
+   "ESP32",
+   "MQTT"
+  ],
+  "source": "College",
+  "url": "https://example.com/projects/71"
+ },
+ {
+  "title": "Bill Reminder Hub",
+  "domain": "Finance",
+  "description": "A web dashboard with a chatbot that keeps track of monthly bills and due dates.",
+  "features": [
+   "Due date alerts",
+   "Bill history",
+   "Auto categorisation",
+   "Central dashboard",
+   "Chatbot assistant"
+  ],
+  "tech_stack": [
+   "React",
+   "Node.js",
+   "MongoDB"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/72"
+ },
+ {
+  "title": "Fraud AI",
+  "domain": "Finance",
+  "description": "An AI-powered system using computer vision and machine learning that detects suspicious payment activity.",
+  "features": [
+   "Anomaly detection",
+   "Instant alerts",
+   "Risk scores",
+   "Machine learning model",
+   "Automated alerts"
+  ],
+  "tech_stack": [
+   "Python",
+   "TensorFlow",
+   "Flask"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/73"
+ },
+ {
+  "title": "Fraud App",
+  "domain": "Finance",
+  "description": "A mobile app that detects suspicious payment activity.",
+  "features": [
+   "Anomaly detection",
+   "Instant alerts",
+   "Risk scores",
+   "Simple mobile interface",
+   "Push notifications"
+  ],
+  "tech_stack": [
+   "Flutter",
+   "Firebase"
+  ],
+  "source": "Devpost",
+  "url": "https://example.com/projects/74"
+ },
+ {
+  "title": "Fraud IoT",
+  "domain": "Finance",
+  "description": "A low-cost IoT solution using sensors that detects suspicious payment activity.",
+  "features": [
+   "Anomaly detection",
+   "Instant alerts",
+   "Risk scores",
+   "Sensor data capture",
+   "Real-time monitoring"
+  ],
+  "tech_stack": [
+   "Arduino",
+   "ESP32",
+   "MQTT"
+  ],
+  "source": "College",
+  "url": "https://example.com/projects/75"
+ },
+ {
+  "title": "Fraud Hub",
+  "domain": "Finance",
+  "description": "A web dashboard with a chatbot that detects suspicious payment activity.",
+  "features": [
+   "Anomaly detection",
+   "Instant alerts",
+   "Risk scores",
+   "Central dashboard",
+   "Chatbot assistant"
+  ],
+  "tech_stack": [
+   "React",
+   "Node.js",
+   "MongoDB"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/76"
+ },
+ {
+  "title": "Savings AI",
+  "domain": "Finance",
+  "description": "An AI-powered system using computer vision and machine learning that helps students build savings habits.",
+  "features": [
+   "Goal setting",
+   "Round-up savings",
+   "Progress tracking",
+   "Machine learning model",
+   "Automated alerts"
+  ],
+  "tech_stack": [
+   "Python",
+   "TensorFlow",
+   "Flask"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/77"
+ },
+ {
+  "title": "Savings App",
+  "domain": "Finance",
+  "description": "A mobile app that helps students build savings habits.",
+  "features": [
+   "Goal setting",
+   "Round-up savings",
+   "Progress tracking",
+   "Simple mobile interface",
+   "Push notifications"
+  ],
+  "tech_stack": [
+   "Flutter",
+   "Firebase"
+  ],
+  "source": "Devpost",
+  "url": "https://example.com/projects/78"
+ },
+ {
+  "title": "Savings IoT",
+  "domain": "Finance",
+  "description": "A low-cost IoT solution using sensors that helps students build savings habits.",
+  "features": [
+   "Goal setting",
+   "Round-up savings",
+   "Progress tracking",
+   "Sensor data capture",
+   "Real-time monitoring"
+  ],
+  "tech_stack": [
+   "Arduino",
+   "ESP32",
+   "MQTT"
+  ],
+  "source": "College",
+  "url": "https://example.com/projects/79"
+ },
+ {
+  "title": "Savings Hub",
+  "domain": "Finance",
+  "description": "A web dashboard with a chatbot that helps students build savings habits.",
+  "features": [
+   "Goal setting",
+   "Round-up savings",
+   "Progress tracking",
+   "Central dashboard",
+   "Chatbot assistant"
+  ],
+  "tech_stack": [
+   "React",
+   "Node.js",
+   "MongoDB"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/80"
+ },
+ {
+  "title": "Bus Tracking AI",
+  "domain": "Transport",
+  "description": "An AI-powered system using computer vision and machine learning that shows live bus locations and arrival times.",
+  "features": [
+   "Live location",
+   "Arrival estimates",
+   "Route search",
+   "Machine learning model",
+   "Automated alerts"
+  ],
+  "tech_stack": [
+   "Python",
+   "TensorFlow",
+   "Flask"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/81"
+ },
+ {
+  "title": "Bus Tracking App",
+  "domain": "Transport",
+  "description": "A mobile app that shows live bus locations and arrival times.",
+  "features": [
+   "Live location",
+   "Arrival estimates",
+   "Route search",
+   "Simple mobile interface",
+   "Push notifications"
+  ],
+  "tech_stack": [
+   "Flutter",
+   "Firebase"
+  ],
+  "source": "Devpost",
+  "url": "https://example.com/projects/82"
+ },
+ {
+  "title": "Bus Tracking IoT",
+  "domain": "Transport",
+  "description": "A low-cost IoT solution using sensors that shows live bus locations and arrival times.",
+  "features": [
+   "Live location",
+   "Arrival estimates",
+   "Route search",
+   "Sensor data capture",
+   "Real-time monitoring"
+  ],
+  "tech_stack": [
+   "Arduino",
+   "ESP32",
+   "MQTT"
+  ],
+  "source": "College",
+  "url": "https://example.com/projects/83"
+ },
+ {
+  "title": "Bus Tracking Hub",
+  "domain": "Transport",
+  "description": "A web dashboard with a chatbot that shows live bus locations and arrival times.",
+  "features": [
+   "Live location",
+   "Arrival estimates",
+   "Route search",
+   "Central dashboard",
+   "Chatbot assistant"
+  ],
+  "tech_stack": [
+   "React",
+   "Node.js",
+   "MongoDB"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/84"
+ },
+ {
+  "title": "Parking AI",
+  "domain": "Transport",
+  "description": "An AI-powered system using computer vision and machine learning that finds and manages parking spaces.",
+  "features": [
+   "Free slot detection",
+   "Slot booking",
+   "Payment",
+   "Machine learning model",
+   "Automated alerts"
+  ],
+  "tech_stack": [
+   "Python",
+   "TensorFlow",
+   "Flask"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/85"
+ },
+ {
+  "title": "Parking App",
+  "domain": "Transport",
+  "description": "A mobile app that finds and manages parking spaces.",
+  "features": [
+   "Free slot detection",
+   "Slot booking",
+   "Payment",
+   "Simple mobile interface",
+   "Push notifications"
+  ],
+  "tech_stack": [
+   "Flutter",
+   "Firebase"
+  ],
+  "source": "Devpost",
+  "url": "https://example.com/projects/86"
+ },
+ {
+  "title": "Parking IoT",
+  "domain": "Transport",
+  "description": "A low-cost IoT solution using sensors that finds and manages parking spaces.",
+  "features": [
+   "Free slot detection",
+   "Slot booking",
+   "Payment",
+   "Sensor data capture",
+   "Real-time monitoring"
+  ],
+  "tech_stack": [
+   "Arduino",
+   "ESP32",
+   "MQTT"
+  ],
+  "source": "College",
+  "url": "https://example.com/projects/87"
+ },
+ {
+  "title": "Parking Hub",
+  "domain": "Transport",
+  "description": "A web dashboard with a chatbot that finds and manages parking spaces.",
+  "features": [
+   "Free slot detection",
+   "Slot booking",
+   "Payment",
+   "Central dashboard",
+   "Chatbot assistant"
+  ],
+  "tech_stack": [
+   "React",
+   "Node.js",
+   "MongoDB"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/88"
+ },
+ {
+  "title": "Carpool AI",
+  "domain": "Transport",
+  "description": "An AI-powered system using computer vision and machine learning that connects people for shared rides.",
+  "features": [
+   "Ride matching",
+   "Cost splitting",
+   "Safety checks",
+   "Machine learning model",
+   "Automated alerts"
+  ],
+  "tech_stack": [
+   "Python",
+   "TensorFlow",
+   "Flask"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/89"
+ },
+ {
+  "title": "Carpool App",
+  "domain": "Transport",
+  "description": "A mobile app that connects people for shared rides.",
+  "features": [
+   "Ride matching",
+   "Cost splitting",
+   "Safety checks",
+   "Simple mobile interface",
+   "Push notifications"
+  ],
+  "tech_stack": [
+   "Flutter",
+   "Firebase"
+  ],
+  "source": "Devpost",
+  "url": "https://example.com/projects/90"
+ },
+ {
+  "title": "Carpool IoT",
+  "domain": "Transport",
+  "description": "A low-cost IoT solution using sensors that connects people for shared rides.",
+  "features": [
+   "Ride matching",
+   "Cost splitting",
+   "Safety checks",
+   "Sensor data capture",
+   "Real-time monitoring"
+  ],
+  "tech_stack": [
+   "Arduino",
+   "ESP32",
+   "MQTT"
+  ],
+  "source": "College",
+  "url": "https://example.com/projects/91"
+ },
+ {
+  "title": "Carpool Hub",
+  "domain": "Transport",
+  "description": "A web dashboard with a chatbot that connects people for shared rides.",
+  "features": [
+   "Ride matching",
+   "Cost splitting",
+   "Safety checks",
+   "Central dashboard",
+   "Chatbot assistant"
+  ],
+  "tech_stack": [
+   "React",
+   "Node.js",
+   "MongoDB"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/92"
+ },
+ {
+  "title": "Traffic AI",
+  "domain": "Transport",
+  "description": "An AI-powered system using computer vision and machine learning that reduces congestion using traffic prediction.",
+  "features": [
+   "Congestion prediction",
+   "Route suggestions",
+   "Signal timing",
+   "Machine learning model",
+   "Automated alerts"
+  ],
+  "tech_stack": [
+   "Python",
+   "TensorFlow",
+   "Flask"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/93"
+ },
+ {
+  "title": "Traffic App",
+  "domain": "Transport",
+  "description": "A mobile app that reduces congestion using traffic prediction.",
+  "features": [
+   "Congestion prediction",
+   "Route suggestions",
+   "Signal timing",
+   "Simple mobile interface",
+   "Push notifications"
+  ],
+  "tech_stack": [
+   "Flutter",
+   "Firebase"
+  ],
+  "source": "Devpost",
+  "url": "https://example.com/projects/94"
+ },
+ {
+  "title": "Traffic IoT",
+  "domain": "Transport",
+  "description": "A low-cost IoT solution using sensors that reduces congestion using traffic prediction.",
+  "features": [
+   "Congestion prediction",
+   "Route suggestions",
+   "Signal timing",
+   "Sensor data capture",
+   "Real-time monitoring"
+  ],
+  "tech_stack": [
+   "Arduino",
+   "ESP32",
+   "MQTT"
+  ],
+  "source": "College",
+  "url": "https://example.com/projects/95"
+ },
+ {
+  "title": "Traffic Hub",
+  "domain": "Transport",
+  "description": "A web dashboard with a chatbot that reduces congestion using traffic prediction.",
+  "features": [
+   "Congestion prediction",
+   "Route suggestions",
+   "Signal timing",
+   "Central dashboard",
+   "Chatbot assistant"
+  ],
+  "tech_stack": [
+   "React",
+   "Node.js",
+   "MongoDB"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/96"
+ },
+ {
+  "title": "Accident AI",
+  "domain": "Transport",
+  "description": "An AI-powered system using computer vision and machine learning that detects road accidents and alerts help.",
+  "features": [
+   "Crash detection",
+   "Location sharing",
+   "Emergency calls",
+   "Machine learning model",
+   "Automated alerts"
+  ],
+  "tech_stack": [
+   "Python",
+   "TensorFlow",
+   "Flask"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/97"
+ },
+ {
+  "title": "Accident App",
+  "domain": "Transport",
+  "description": "A mobile app that detects road accidents and alerts help.",
+  "features": [
+   "Crash detection",
+   "Location sharing",
+   "Emergency calls",
+   "Simple mobile interface",
+   "Push notifications"
+  ],
+  "tech_stack": [
+   "Flutter",
+   "Firebase"
+  ],
+  "source": "Devpost",
+  "url": "https://example.com/projects/98"
+ },
+ {
+  "title": "Accident IoT",
+  "domain": "Transport",
+  "description": "A low-cost IoT solution using sensors that detects road accidents and alerts help.",
+  "features": [
+   "Crash detection",
+   "Location sharing",
+   "Emergency calls",
+   "Sensor data capture",
+   "Real-time monitoring"
+  ],
+  "tech_stack": [
+   "Arduino",
+   "ESP32",
+   "MQTT"
+  ],
+  "source": "College",
+  "url": "https://example.com/projects/99"
+ },
+ {
+  "title": "Accident Hub",
+  "domain": "Transport",
+  "description": "A web dashboard with a chatbot that detects road accidents and alerts help.",
+  "features": [
+   "Crash detection",
+   "Location sharing",
+   "Emergency calls",
+   "Central dashboard",
+   "Chatbot assistant"
+  ],
+  "tech_stack": [
+   "React",
+   "Node.js",
+   "MongoDB"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/100"
+ },
+ {
+  "title": "Waste Segregation AI",
+  "domain": "Environment",
+  "description": "An AI-powered system using computer vision and machine learning that helps people segregate waste at source.",
+  "features": [
+   "Waste classification",
+   "Bin guidance",
+   "Reward points",
+   "Machine learning model",
+   "Automated alerts"
+  ],
+  "tech_stack": [
+   "Python",
+   "TensorFlow",
+   "Flask"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/101"
+ },
+ {
+  "title": "Waste Segregation App",
+  "domain": "Environment",
+  "description": "A mobile app that helps people segregate waste at source.",
+  "features": [
+   "Waste classification",
+   "Bin guidance",
+   "Reward points",
+   "Simple mobile interface",
+   "Push notifications"
+  ],
+  "tech_stack": [
+   "Flutter",
+   "Firebase"
+  ],
+  "source": "Devpost",
+  "url": "https://example.com/projects/102"
+ },
+ {
+  "title": "Waste Segregation IoT",
+  "domain": "Environment",
+  "description": "A low-cost IoT solution using sensors that helps people segregate waste at source.",
+  "features": [
+   "Waste classification",
+   "Bin guidance",
+   "Reward points",
+   "Sensor data capture",
+   "Real-time monitoring"
+  ],
+  "tech_stack": [
+   "Arduino",
+   "ESP32",
+   "MQTT"
+  ],
+  "source": "College",
+  "url": "https://example.com/projects/103"
+ },
+ {
+  "title": "Waste Segregation Hub",
+  "domain": "Environment",
+  "description": "A web dashboard with a chatbot that helps people segregate waste at source.",
+  "features": [
+   "Waste classification",
+   "Bin guidance",
+   "Reward points",
+   "Central dashboard",
+   "Chatbot assistant"
+  ],
+  "tech_stack": [
+   "React",
+   "Node.js",
+   "MongoDB"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/104"
+ },
+ {
+  "title": "Energy AI",
+  "domain": "Environment",
+  "description": "An AI-powered system using computer vision and machine learning that monitors electricity wastage in buildings.",
+  "features": [
+   "Usage monitoring",
+   "Wastage alerts",
+   "Savings tips",
+   "Machine learning model",
+   "Automated alerts"
+  ],
+  "tech_stack": [
+   "Python",
+   "TensorFlow",
+   "Flask"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/105"
+ },
+ {
+  "title": "Energy App",
+  "domain": "Environment",
+  "description": "A mobile app that monitors electricity wastage in buildings.",
+  "features": [
+   "Usage monitoring",
+   "Wastage alerts",
+   "Savings tips",
+   "Simple mobile interface",
+   "Push notifications"
+  ],
+  "tech_stack": [
+   "Flutter",
+   "Firebase"
+  ],
+  "source": "Devpost",
+  "url": "https://example.com/projects/106"
+ },
+ {
+  "title": "Energy IoT",
+  "domain": "Environment",
+  "description": "A low-cost IoT solution using sensors that monitors electricity wastage in buildings.",
+  "features": [
+   "Usage monitoring",
+   "Wastage alerts",
+   "Savings tips",
+   "Sensor data capture",
+   "Real-time monitoring"
+  ],
+  "tech_stack": [
+   "Arduino",
+   "ESP32",
+   "MQTT"
+  ],
+  "source": "College",
+  "url": "https://example.com/projects/107"
+ },
+ {
+  "title": "Energy Hub",
+  "domain": "Environment",
+  "description": "A web dashboard with a chatbot that monitors electricity wastage in buildings.",
+  "features": [
+   "Usage monitoring",
+   "Wastage alerts",
+   "Savings tips",
+   "Central dashboard",
+   "Chatbot assistant"
+  ],
+  "tech_stack": [
+   "React",
+   "Node.js",
+   "MongoDB"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/108"
+ },
+ {
+  "title": "Water AI",
+  "domain": "Environment",
+  "description": "An AI-powered system using computer vision and machine learning that monitors water usage and leakage.",
+  "features": [
+   "Flow tracking",
+   "Leak alerts",
+   "Usage reports",
+   "Machine learning model",
+   "Automated alerts"
+  ],
+  "tech_stack": [
+   "Python",
+   "TensorFlow",
+   "Flask"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/109"
+ },
+ {
+  "title": "Water App",
+  "domain": "Environment",
+  "description": "A mobile app that monitors water usage and leakage.",
+  "features": [
+   "Flow tracking",
+   "Leak alerts",
+   "Usage reports",
+   "Simple mobile interface",
+   "Push notifications"
+  ],
+  "tech_stack": [
+   "Flutter",
+   "Firebase"
+  ],
+  "source": "Devpost",
+  "url": "https://example.com/projects/110"
+ },
+ {
+  "title": "Water IoT",
+  "domain": "Environment",
+  "description": "A low-cost IoT solution using sensors that monitors water usage and leakage.",
+  "features": [
+   "Flow tracking",
+   "Leak alerts",
+   "Usage reports",
+   "Sensor data capture",
+   "Real-time monitoring"
+  ],
+  "tech_stack": [
+   "Arduino",
+   "ESP32",
+   "MQTT"
+  ],
+  "source": "College",
+  "url": "https://example.com/projects/111"
+ },
+ {
+  "title": "Water Hub",
+  "domain": "Environment",
+  "description": "A web dashboard with a chatbot that monitors water usage and leakage.",
+  "features": [
+   "Flow tracking",
+   "Leak alerts",
+   "Usage reports",
+   "Central dashboard",
+   "Chatbot assistant"
+  ],
+  "tech_stack": [
+   "React",
+   "Node.js",
+   "MongoDB"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/112"
+ },
+ {
+  "title": "Air Quality AI",
+  "domain": "Environment",
+  "description": "An AI-powered system using computer vision and machine learning that tracks local air quality.",
+  "features": [
+   "Live AQI",
+   "Pollution alerts",
+   "Area heatmap",
+   "Machine learning model",
+   "Automated alerts"
+  ],
+  "tech_stack": [
+   "Python",
+   "TensorFlow",
+   "Flask"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/113"
+ },
+ {
+  "title": "Air Quality App",
+  "domain": "Environment",
+  "description": "A mobile app that tracks local air quality.",
+  "features": [
+   "Live AQI",
+   "Pollution alerts",
+   "Area heatmap",
+   "Simple mobile interface",
+   "Push notifications"
+  ],
+  "tech_stack": [
+   "Flutter",
+   "Firebase"
+  ],
+  "source": "Devpost",
+  "url": "https://example.com/projects/114"
+ },
+ {
+  "title": "Air Quality IoT",
+  "domain": "Environment",
+  "description": "A low-cost IoT solution using sensors that tracks local air quality.",
+  "features": [
+   "Live AQI",
+   "Pollution alerts",
+   "Area heatmap",
+   "Sensor data capture",
+   "Real-time monitoring"
+  ],
+  "tech_stack": [
+   "Arduino",
+   "ESP32",
+   "MQTT"
+  ],
+  "source": "College",
+  "url": "https://example.com/projects/115"
+ },
+ {
+  "title": "Air Quality Hub",
+  "domain": "Environment",
+  "description": "A web dashboard with a chatbot that tracks local air quality.",
+  "features": [
+   "Live AQI",
+   "Pollution alerts",
+   "Area heatmap",
+   "Central dashboard",
+   "Chatbot assistant"
+  ],
+  "tech_stack": [
+   "React",
+   "Node.js",
+   "MongoDB"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/116"
+ },
+ {
+  "title": "Garbage Collection AI",
+  "domain": "Environment",
+  "description": "An AI-powered system using computer vision and machine learning that schedules garbage collection and reports missed pickups.",
+  "features": [
+   "Pickup schedule",
+   "Complaint reporting",
+   "Route tracking",
+   "Machine learning model",
+   "Automated alerts"
+  ],
+  "tech_stack": [
+   "Python",
+   "TensorFlow",
+   "Flask"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/117"
+ },
+ {
+  "title": "Garbage Collection App",
+  "domain": "Environment",
+  "description": "A mobile app that schedules garbage collection and reports missed pickups.",
+  "features": [
+   "Pickup schedule",
+   "Complaint reporting",
+   "Route tracking",
+   "Simple mobile interface",
+   "Push notifications"
+  ],
+  "tech_stack": [
+   "Flutter",
+   "Firebase"
+  ],
+  "source": "Devpost",
+  "url": "https://example.com/projects/118"
+ },
+ {
+  "title": "Garbage Collection IoT",
+  "domain": "Environment",
+  "description": "A low-cost IoT solution using sensors that schedules garbage collection and reports missed pickups.",
+  "features": [
+   "Pickup schedule",
+   "Complaint reporting",
+   "Route tracking",
+   "Sensor data capture",
+   "Real-time monitoring"
+  ],
+  "tech_stack": [
+   "Arduino",
+   "ESP32",
+   "MQTT"
+  ],
+  "source": "College",
+  "url": "https://example.com/projects/119"
+ },
+ {
+  "title": "Garbage Collection Hub",
+  "domain": "Environment",
+  "description": "A web dashboard with a chatbot that schedules garbage collection and reports missed pickups.",
+  "features": [
+   "Pickup schedule",
+   "Complaint reporting",
+   "Route tracking",
+   "Central dashboard",
+   "Chatbot assistant"
+  ],
+  "tech_stack": [
+   "React",
+   "Node.js",
+   "MongoDB"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/120"
+ },
+ {
+  "title": "Sign Language AI",
+  "domain": "Accessibility",
+  "description": "An AI-powered system using computer vision and machine learning that translates sign language to text.",
+  "features": [
+   "Gesture recognition",
+   "Text output",
+   "Learning mode",
+   "Machine learning model",
+   "Automated alerts"
+  ],
+  "tech_stack": [
+   "Python",
+   "TensorFlow",
+   "Flask"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/121"
+ },
+ {
+  "title": "Sign Language App",
+  "domain": "Accessibility",
+  "description": "A mobile app that translates sign language to text.",
+  "features": [
+   "Gesture recognition",
+   "Text output",
+   "Learning mode",
+   "Simple mobile interface",
+   "Push notifications"
+  ],
+  "tech_stack": [
+   "Flutter",
+   "Firebase"
+  ],
+  "source": "Devpost",
+  "url": "https://example.com/projects/122"
+ },
+ {
+  "title": "Sign Language IoT",
+  "domain": "Accessibility",
+  "description": "A low-cost IoT solution using sensors that translates sign language to text.",
+  "features": [
+   "Gesture recognition",
+   "Text output",
+   "Learning mode",
+   "Sensor data capture",
+   "Real-time monitoring"
+  ],
+  "tech_stack": [
+   "Arduino",
+   "ESP32",
+   "MQTT"
+  ],
+  "source": "College",
+  "url": "https://example.com/projects/123"
+ },
+ {
+  "title": "Sign Language Hub",
+  "domain": "Accessibility",
+  "description": "A web dashboard with a chatbot that translates sign language to text.",
+  "features": [
+   "Gesture recognition",
+   "Text output",
+   "Learning mode",
+   "Central dashboard",
+   "Chatbot assistant"
+  ],
+  "tech_stack": [
+   "React",
+   "Node.js",
+   "MongoDB"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/124"
+ },
+ {
+  "title": "Blind Navigation AI",
+  "domain": "Accessibility",
+  "description": "An AI-powered system using computer vision and machine learning that guides visually impaired people while walking.",
+  "features": [
+   "Obstacle detection",
+   "Voice guidance",
+   "Location sharing",
+   "Machine learning model",
+   "Automated alerts"
+  ],
+  "tech_stack": [
+   "Python",
+   "TensorFlow",
+   "Flask"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/125"
+ },
+ {
+  "title": "Blind Navigation App",
+  "domain": "Accessibility",
+  "description": "A mobile app that guides visually impaired people while walking.",
+  "features": [
+   "Obstacle detection",
+   "Voice guidance",
+   "Location sharing",
+   "Simple mobile interface",
+   "Push notifications"
+  ],
+  "tech_stack": [
+   "Flutter",
+   "Firebase"
+  ],
+  "source": "Devpost",
+  "url": "https://example.com/projects/126"
+ },
+ {
+  "title": "Blind Navigation IoT",
+  "domain": "Accessibility",
+  "description": "A low-cost IoT solution using sensors that guides visually impaired people while walking.",
+  "features": [
+   "Obstacle detection",
+   "Voice guidance",
+   "Location sharing",
+   "Sensor data capture",
+   "Real-time monitoring"
+  ],
+  "tech_stack": [
+   "Arduino",
+   "ESP32",
+   "MQTT"
+  ],
+  "source": "College",
+  "url": "https://example.com/projects/127"
+ },
+ {
+  "title": "Blind Navigation Hub",
+  "domain": "Accessibility",
+  "description": "A web dashboard with a chatbot that guides visually impaired people while walking.",
+  "features": [
+   "Obstacle detection",
+   "Voice guidance",
+   "Location sharing",
+   "Central dashboard",
+   "Chatbot assistant"
+  ],
+  "tech_stack": [
+   "React",
+   "Node.js",
+   "MongoDB"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/128"
+ },
+ {
+  "title": "Captions AI",
+  "domain": "Accessibility",
+  "description": "An AI-powered system using computer vision and machine learning that creates live captions for lectures.",
+  "features": [
+   "Speech to text",
+   "Multiple languages",
+   "Transcript download",
+   "Machine learning model",
+   "Automated alerts"
+  ],
+  "tech_stack": [
+   "Python",
+   "TensorFlow",
+   "Flask"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/129"
+ },
+ {
+  "title": "Captions App",
+  "domain": "Accessibility",
+  "description": "A mobile app that creates live captions for lectures.",
+  "features": [
+   "Speech to text",
+   "Multiple languages",
+   "Transcript download",
+   "Simple mobile interface",
+   "Push notifications"
+  ],
+  "tech_stack": [
+   "Flutter",
+   "Firebase"
+  ],
+  "source": "Devpost",
+  "url": "https://example.com/projects/130"
+ },
+ {
+  "title": "Captions IoT",
+  "domain": "Accessibility",
+  "description": "A low-cost IoT solution using sensors that creates live captions for lectures.",
+  "features": [
+   "Speech to text",
+   "Multiple languages",
+   "Transcript download",
+   "Sensor data capture",
+   "Real-time monitoring"
+  ],
+  "tech_stack": [
+   "Arduino",
+   "ESP32",
+   "MQTT"
+  ],
+  "source": "College",
+  "url": "https://example.com/projects/131"
+ },
+ {
+  "title": "Captions Hub",
+  "domain": "Accessibility",
+  "description": "A web dashboard with a chatbot that creates live captions for lectures.",
+  "features": [
+   "Speech to text",
+   "Multiple languages",
+   "Transcript download",
+   "Central dashboard",
+   "Chatbot assistant"
+  ],
+  "tech_stack": [
+   "React",
+   "Node.js",
+   "MongoDB"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/132"
+ },
+ {
+  "title": "Reader AI",
+  "domain": "Accessibility",
+  "description": "An AI-powered system using computer vision and machine learning that reads printed text aloud.",
+  "features": [
+   "Text recognition",
+   "Voice output",
+   "Language choice",
+   "Machine learning model",
+   "Automated alerts"
+  ],
+  "tech_stack": [
+   "Python",
+   "TensorFlow",
+   "Flask"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/133"
+ },
+ {
+  "title": "Reader App",
+  "domain": "Accessibility",
+  "description": "A mobile app that reads printed text aloud.",
+  "features": [
+   "Text recognition",
+   "Voice output",
+   "Language choice",
+   "Simple mobile interface",
+   "Push notifications"
+  ],
+  "tech_stack": [
+   "Flutter",
+   "Firebase"
+  ],
+  "source": "Devpost",
+  "url": "https://example.com/projects/134"
+ },
+ {
+  "title": "Reader IoT",
+  "domain": "Accessibility",
+  "description": "A low-cost IoT solution using sensors that reads printed text aloud.",
+  "features": [
+   "Text recognition",
+   "Voice output",
+   "Language choice",
+   "Sensor data capture",
+   "Real-time monitoring"
+  ],
+  "tech_stack": [
+   "Arduino",
+   "ESP32",
+   "MQTT"
+  ],
+  "source": "College",
+  "url": "https://example.com/projects/135"
+ },
+ {
+  "title": "Reader Hub",
+  "domain": "Accessibility",
+  "description": "A web dashboard with a chatbot that reads printed text aloud.",
+  "features": [
+   "Text recognition",
+   "Voice output",
+   "Language choice",
+   "Central dashboard",
+   "Chatbot assistant"
+  ],
+  "tech_stack": [
+   "React",
+   "Node.js",
+   "MongoDB"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/136"
+ },
+ {
+  "title": "Voice Control AI",
+  "domain": "Accessibility",
+  "description": "An AI-powered system using computer vision and machine learning that lets users control devices by voice.",
+  "features": [
+   "Voice commands",
+   "Custom commands",
+   "Offline support",
+   "Machine learning model",
+   "Automated alerts"
+  ],
+  "tech_stack": [
+   "Python",
+   "TensorFlow",
+   "Flask"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/137"
+ },
+ {
+  "title": "Voice Control App",
+  "domain": "Accessibility",
+  "description": "A mobile app that lets users control devices by voice.",
+  "features": [
+   "Voice commands",
+   "Custom commands",
+   "Offline support",
+   "Simple mobile interface",
+   "Push notifications"
+  ],
+  "tech_stack": [
+   "Flutter",
+   "Firebase"
+  ],
+  "source": "Devpost",
+  "url": "https://example.com/projects/138"
+ },
+ {
+  "title": "Voice Control IoT",
+  "domain": "Accessibility",
+  "description": "A low-cost IoT solution using sensors that lets users control devices by voice.",
+  "features": [
+   "Voice commands",
+   "Custom commands",
+   "Offline support",
+   "Sensor data capture",
+   "Real-time monitoring"
+  ],
+  "tech_stack": [
+   "Arduino",
+   "ESP32",
+   "MQTT"
+  ],
+  "source": "College",
+  "url": "https://example.com/projects/139"
+ },
+ {
+  "title": "Voice Control Hub",
+  "domain": "Accessibility",
+  "description": "A web dashboard with a chatbot that lets users control devices by voice.",
+  "features": [
+   "Voice commands",
+   "Custom commands",
+   "Offline support",
+   "Central dashboard",
+   "Chatbot assistant"
+  ],
+  "tech_stack": [
+   "React",
+   "Node.js",
+   "MongoDB"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/140"
+ },
+ {
+  "title": "Task Manager AI",
+  "domain": "Productivity",
+  "description": "An AI-powered system using computer vision and machine learning that helps teams plan and track tasks.",
+  "features": [
+   "Task boards",
+   "Deadlines",
+   "Progress reports",
+   "Machine learning model",
+   "Automated alerts"
+  ],
+  "tech_stack": [
+   "Python",
+   "TensorFlow",
+   "Flask"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/141"
+ },
+ {
+  "title": "Task Manager App",
+  "domain": "Productivity",
+  "description": "A mobile app that helps teams plan and track tasks.",
+  "features": [
+   "Task boards",
+   "Deadlines",
+   "Progress reports",
+   "Simple mobile interface",
+   "Push notifications"
+  ],
+  "tech_stack": [
+   "Flutter",
+   "Firebase"
+  ],
+  "source": "Devpost",
+  "url": "https://example.com/projects/142"
+ },
+ {
+  "title": "Task Manager IoT",
+  "domain": "Productivity",
+  "description": "A low-cost IoT solution using sensors that helps teams plan and track tasks.",
+  "features": [
+   "Task boards",
+   "Deadlines",
+   "Progress reports",
+   "Sensor data capture",
+   "Real-time monitoring"
+  ],
+  "tech_stack": [
+   "Arduino",
+   "ESP32",
+   "MQTT"
+  ],
+  "source": "College",
+  "url": "https://example.com/projects/143"
+ },
+ {
+  "title": "Task Manager Hub",
+  "domain": "Productivity",
+  "description": "A web dashboard with a chatbot that helps teams plan and track tasks.",
+  "features": [
+   "Task boards",
+   "Deadlines",
+   "Progress reports",
+   "Central dashboard",
+   "Chatbot assistant"
+  ],
+  "tech_stack": [
+   "React",
+   "Node.js",
+   "MongoDB"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/144"
+ },
+ {
+  "title": "Meetings AI",
+  "domain": "Productivity",
+  "description": "An AI-powered system using computer vision and machine learning that schedules meetings and writes minutes.",
+  "features": [
+   "Slot finder",
+   "Auto minutes",
+   "Action items",
+   "Machine learning model",
+   "Automated alerts"
+  ],
+  "tech_stack": [
+   "Python",
+   "TensorFlow",
+   "Flask"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/145"
+ },
+ {
+  "title": "Meetings App",
+  "domain": "Productivity",
+  "description": "A mobile app that schedules meetings and writes minutes.",
+  "features": [
+   "Slot finder",
+   "Auto minutes",
+   "Action items",
+   "Simple mobile interface",
+   "Push notifications"
+  ],
+  "tech_stack": [
+   "Flutter",
+   "Firebase"
+  ],
+  "source": "Devpost",
+  "url": "https://example.com/projects/146"
+ },
+ {
+  "title": "Meetings IoT",
+  "domain": "Productivity",
+  "description": "A low-cost IoT solution using sensors that schedules meetings and writes minutes.",
+  "features": [
+   "Slot finder",
+   "Auto minutes",
+   "Action items",
+   "Sensor data capture",
+   "Real-time monitoring"
+  ],
+  "tech_stack": [
+   "Arduino",
+   "ESP32",
+   "MQTT"
+  ],
+  "source": "College",
+  "url": "https://example.com/projects/147"
+ },
+ {
+  "title": "Meetings Hub",
+  "domain": "Productivity",
+  "description": "A web dashboard with a chatbot that schedules meetings and writes minutes.",
+  "features": [
+   "Slot finder",
+   "Auto minutes",
+   "Action items",
+   "Central dashboard",
+   "Chatbot assistant"
+  ],
+  "tech_stack": [
+   "React",
+   "Node.js",
+   "MongoDB"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/148"
+ },
+ {
+  "title": "Leave Approval AI",
+  "domain": "Productivity",
+  "description": "An AI-powered system using computer vision and machine learning that streamlines leave requests and approvals.",
+  "features": [
+   "Request forms",
+   "Approval chain",
+   "Balance tracking",
+   "Machine learning model",
+   "Automated alerts"
+  ],
+  "tech_stack": [
+   "Python",
+   "TensorFlow",
+   "Flask"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/149"
+ },
+ {
+  "title": "Leave Approval App",
+  "domain": "Productivity",
+  "description": "A mobile app that streamlines leave requests and approvals.",
+  "features": [
+   "Request forms",
+   "Approval chain",
+   "Balance tracking",
+   "Simple mobile interface",
+   "Push notifications"
+  ],
+  "tech_stack": [
+   "Flutter",
+   "Firebase"
+  ],
+  "source": "Devpost",
+  "url": "https://example.com/projects/150"
+ },
+ {
+  "title": "Leave Approval IoT",
+  "domain": "Productivity",
+  "description": "A low-cost IoT solution using sensors that streamlines leave requests and approvals.",
+  "features": [
+   "Request forms",
+   "Approval chain",
+   "Balance tracking",
+   "Sensor data capture",
+   "Real-time monitoring"
+  ],
+  "tech_stack": [
+   "Arduino",
+   "ESP32",
+   "MQTT"
+  ],
+  "source": "College",
+  "url": "https://example.com/projects/151"
+ },
+ {
+  "title": "Leave Approval Hub",
+  "domain": "Productivity",
+  "description": "A web dashboard with a chatbot that streamlines leave requests and approvals.",
+  "features": [
+   "Request forms",
+   "Approval chain",
+   "Balance tracking",
+   "Central dashboard",
+   "Chatbot assistant"
+  ],
+  "tech_stack": [
+   "React",
+   "Node.js",
+   "MongoDB"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/152"
+ },
+ {
+  "title": "Certificates AI",
+  "domain": "Productivity",
+  "description": "An AI-powered system using computer vision and machine learning that speeds up bonafide, NOC and ID card requests.",
+  "features": [
+   "Online requests",
+   "Digital signatures",
+   "Status tracking",
+   "Machine learning model",
+   "Automated alerts"
+  ],
+  "tech_stack": [
+   "Python",
+   "TensorFlow",
+   "Flask"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/153"
+ },
+ {
+  "title": "Certificates App",
+  "domain": "Productivity",
+  "description": "A mobile app that speeds up bonafide, NOC and ID card requests.",
+  "features": [
+   "Online requests",
+   "Digital signatures",
+   "Status tracking",
+   "Simple mobile interface",
+   "Push notifications"
+  ],
+  "tech_stack": [
+   "Flutter",
+   "Firebase"
+  ],
+  "source": "Devpost",
+  "url": "https://example.com/projects/154"
+ },
+ {
+  "title": "Certificates IoT",
+  "domain": "Productivity",
+  "description": "A low-cost IoT solution using sensors that speeds up bonafide, NOC and ID card requests.",
+  "features": [
+   "Online requests",
+   "Digital signatures",
+   "Status tracking",
+   "Sensor data capture",
+   "Real-time monitoring"
+  ],
+  "tech_stack": [
+   "Arduino",
+   "ESP32",
+   "MQTT"
+  ],
+  "source": "College",
+  "url": "https://example.com/projects/155"
+ },
+ {
+  "title": "Certificates Hub",
+  "domain": "Productivity",
+  "description": "A web dashboard with a chatbot that speeds up bonafide, NOC and ID card requests.",
+  "features": [
+   "Online requests",
+   "Digital signatures",
+   "Status tracking",
+   "Central dashboard",
+   "Chatbot assistant"
+  ],
+  "tech_stack": [
+   "React",
+   "Node.js",
+   "MongoDB"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/156"
+ },
+ {
+  "title": "Complaints AI",
+  "domain": "Productivity",
+  "description": "An AI-powered system using computer vision and machine learning that tracks hostel and mess complaints to resolution.",
+  "features": [
+   "Complaint filing",
+   "Status tracking",
+   "Resolution feedback",
+   "Machine learning model",
+   "Automated alerts"
+  ],
+  "tech_stack": [
+   "Python",
+   "TensorFlow",
+   "Flask"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/157"
+ },
+ {
+  "title": "Complaints App",
+  "domain": "Productivity",
+  "description": "A mobile app that tracks hostel and mess complaints to resolution.",
+  "features": [
+   "Complaint filing",
+   "Status tracking",
+   "Resolution feedback",
+   "Simple mobile interface",
+   "Push notifications"
+  ],
+  "tech_stack": [
+   "Flutter",
+   "Firebase"
+  ],
+  "source": "Devpost",
+  "url": "https://example.com/projects/158"
+ },
+ {
+  "title": "Complaints IoT",
+  "domain": "Productivity",
+  "description": "A low-cost IoT solution using sensors that tracks hostel and mess complaints to resolution.",
+  "features": [
+   "Complaint filing",
+   "Status tracking",
+   "Resolution feedback",
+   "Sensor data capture",
+   "Real-time monitoring"
+  ],
+  "tech_stack": [
+   "Arduino",
+   "ESP32",
+   "MQTT"
+  ],
+  "source": "College",
+  "url": "https://example.com/projects/159"
+ },
+ {
+  "title": "Complaints Hub",
+  "domain": "Productivity",
+  "description": "A web dashboard with a chatbot that tracks hostel and mess complaints to resolution.",
+  "features": [
+   "Complaint filing",
+   "Status tracking",
+   "Resolution feedback",
+   "Central dashboard",
+   "Chatbot assistant"
+  ],
+  "tech_stack": [
+   "React",
+   "Node.js",
+   "MongoDB"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/160"
+ },
+ {
+  "title": "Mess Menu AI",
+  "domain": "Food",
+  "description": "An AI-powered system using computer vision and machine learning that manages mess menus and reduces food waste.",
+  "features": [
+   "Menu voting",
+   "Demand prediction",
+   "Waste tracking",
+   "Machine learning model",
+   "Automated alerts"
+  ],
+  "tech_stack": [
+   "Python",
+   "TensorFlow",
+   "Flask"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/161"
+ },
+ {
+  "title": "Mess Menu App",
+  "domain": "Food",
+  "description": "A mobile app that manages mess menus and reduces food waste.",
+  "features": [
+   "Menu voting",
+   "Demand prediction",
+   "Waste tracking",
+   "Simple mobile interface",
+   "Push notifications"
+  ],
+  "tech_stack": [
+   "Flutter",
+   "Firebase"
+  ],
+  "source": "Devpost",
+  "url": "https://example.com/projects/162"
+ },
+ {
+  "title": "Mess Menu IoT",
+  "domain": "Food",
+  "description": "A low-cost IoT solution using sensors that manages mess menus and reduces food waste.",
+  "features": [
+   "Menu voting",
+   "Demand prediction",
+   "Waste tracking",
+   "Sensor data capture",
+   "Real-time monitoring"
+  ],
+  "tech_stack": [
+   "Arduino",
+   "ESP32",
+   "MQTT"
+  ],
+  "source": "College",
+  "url": "https://example.com/projects/163"
+ },
+ {
+  "title": "Mess Menu Hub",
+  "domain": "Food",
+  "description": "A web dashboard with a chatbot that manages mess menus and reduces food waste.",
+  "features": [
+   "Menu voting",
+   "Demand prediction",
+   "Waste tracking",
+   "Central dashboard",
+   "Chatbot assistant"
+  ],
+  "tech_stack": [
+   "React",
+   "Node.js",
+   "MongoDB"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/164"
+ },
+ {
+  "title": "Recipes AI",
+  "domain": "Food",
+  "description": "An AI-powered system using computer vision and machine learning that suggests recipes from available ingredients.",
+  "features": [
+   "Ingredient input",
+   "Recipe suggestions",
+   "Shopping list",
+   "Machine learning model",
+   "Automated alerts"
+  ],
+  "tech_stack": [
+   "Python",
+   "TensorFlow",
+   "Flask"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/165"
+ },
+ {
+  "title": "Recipes App",
+  "domain": "Food",
+  "description": "A mobile app that suggests recipes from available ingredients.",
+  "features": [
+   "Ingredient input",
+   "Recipe suggestions",
+   "Shopping list",
+   "Simple mobile interface",
+   "Push notifications"
+  ],
+  "tech_stack": [
+   "Flutter",
+   "Firebase"
+  ],
+  "source": "Devpost",
+  "url": "https://example.com/projects/166"
+ },
+ {
+  "title": "Recipes IoT",
+  "domain": "Food",
+  "description": "A low-cost IoT solution using sensors that suggests recipes from available ingredients.",
+  "features": [
+   "Ingredient input",
+   "Recipe suggestions",
+   "Shopping list",
+   "Sensor data capture",
+   "Real-time monitoring"
+  ],
+  "tech_stack": [
+   "Arduino",
+   "ESP32",
+   "MQTT"
+  ],
+  "source": "College",
+  "url": "https://example.com/projects/167"
+ },
+ {
+  "title": "Recipes Hub",
+  "domain": "Food",
+  "description": "A web dashboard with a chatbot that suggests recipes from available ingredients.",
+  "features": [
+   "Ingredient input",
+   "Recipe suggestions",
+   "Shopping list",
+   "Central dashboard",
+   "Chatbot assistant"
+  ],
+  "tech_stack": [
+   "React",
+   "Node.js",
+   "MongoDB"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/168"
+ },
+ {
+  "title": "Grocery AI",
+  "domain": "Food",
+  "description": "An AI-powered system using computer vision and machine learning that plans grocery lists and reduces food wastage.",
+  "features": [
+   "Smart lists",
+   "Expiry tracking",
+   "Budget view",
+   "Machine learning model",
+   "Automated alerts"
+  ],
+  "tech_stack": [
+   "Python",
+   "TensorFlow",
+   "Flask"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/169"
+ },
+ {
+  "title": "Grocery App",
+  "domain": "Food",
+  "description": "A mobile app that plans grocery lists and reduces food wastage.",
+  "features": [
+   "Smart lists",
+   "Expiry tracking",
+   "Budget view",
+   "Simple mobile interface",
+   "Push notifications"
+  ],
+  "tech_stack": [
+   "Flutter",
+   "Firebase"
+  ],
+  "source": "Devpost",
+  "url": "https://example.com/projects/170"
+ },
+ {
+  "title": "Grocery IoT",
+  "domain": "Food",
+  "description": "A low-cost IoT solution using sensors that plans grocery lists and reduces food wastage.",
+  "features": [
+   "Smart lists",
+   "Expiry tracking",
+   "Budget view",
+   "Sensor data capture",
+   "Real-time monitoring"
+  ],
+  "tech_stack": [
+   "Arduino",
+   "ESP32",
+   "MQTT"
+  ],
+  "source": "College",
+  "url": "https://example.com/projects/171"
+ },
+ {
+  "title": "Grocery Hub",
+  "domain": "Food",
+  "description": "A web dashboard with a chatbot that plans grocery lists and reduces food wastage.",
+  "features": [
+   "Smart lists",
+   "Expiry tracking",
+   "Budget view",
+   "Central dashboard",
+   "Chatbot assistant"
+  ],
+  "tech_stack": [
+   "React",
+   "Node.js",
+   "MongoDB"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/172"
+ },
+ {
+  "title": "Canteen Queue AI",
+  "domain": "Food",
+  "description": "An AI-powered system using computer vision and machine learning that removes long canteen queues with pre-ordering.",
+  "features": [
+   "Pre-ordering",
+   "Pickup slots",
+   "Payment",
+   "Machine learning model",
+   "Automated alerts"
+  ],
+  "tech_stack": [
+   "Python",
+   "TensorFlow",
+   "Flask"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/173"
+ },
+ {
+  "title": "Canteen Queue App",
+  "domain": "Food",
+  "description": "A mobile app that removes long canteen queues with pre-ordering.",
+  "features": [
+   "Pre-ordering",
+   "Pickup slots",
+   "Payment",
+   "Simple mobile interface",
+   "Push notifications"
+  ],
+  "tech_stack": [
+   "Flutter",
+   "Firebase"
+  ],
+  "source": "Devpost",
+  "url": "https://example.com/projects/174"
+ },
+ {
+  "title": "Canteen Queue IoT",
+  "domain": "Food",
+  "description": "A low-cost IoT solution using sensors that removes long canteen queues with pre-ordering.",
+  "features": [
+   "Pre-ordering",
+   "Pickup slots",
+   "Payment",
+   "Sensor data capture",
+   "Real-time monitoring"
+  ],
+  "tech_stack": [
+   "Arduino",
+   "ESP32",
+   "MQTT"
+  ],
+  "source": "College",
+  "url": "https://example.com/projects/175"
+ },
+ {
+  "title": "Canteen Queue Hub",
+  "domain": "Food",
+  "description": "A web dashboard with a chatbot that removes long canteen queues with pre-ordering.",
+  "features": [
+   "Pre-ordering",
+   "Pickup slots",
+   "Payment",
+   "Central dashboard",
+   "Chatbot assistant"
+  ],
+  "tech_stack": [
+   "React",
+   "Node.js",
+   "MongoDB"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/176"
+ },
+ {
+  "title": "Donation AI",
+  "domain": "Food",
+  "description": "An AI-powered system using computer vision and machine learning that connects surplus food with people in need.",
+  "features": [
+   "Surplus listing",
+   "Pickup matching",
+   "Impact stats",
+   "Machine learning model",
+   "Automated alerts"
+  ],
+  "tech_stack": [
+   "Python",
+   "TensorFlow",
+   "Flask"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/177"
+ },
+ {
+  "title": "Donation App",
+  "domain": "Food",
+  "description": "A mobile app that connects surplus food with people in need.",
+  "features": [
+   "Surplus listing",
+   "Pickup matching",
+   "Impact stats",
+   "Simple mobile interface",
+   "Push notifications"
+  ],
+  "tech_stack": [
+   "Flutter",
+   "Firebase"
+  ],
+  "source": "Devpost",
+  "url": "https://example.com/projects/178"
+ },
+ {
+  "title": "Donation IoT",
+  "domain": "Food",
+  "description": "A low-cost IoT solution using sensors that connects surplus food with people in need.",
+  "features": [
+   "Surplus listing",
+   "Pickup matching",
+   "Impact stats",
+   "Sensor data capture",
+   "Real-time monitoring"
+  ],
+  "tech_stack": [
+   "Arduino",
+   "ESP32",
+   "MQTT"
+  ],
+  "source": "College",
+  "url": "https://example.com/projects/179"
+ },
+ {
+  "title": "Donation Hub",
+  "domain": "Food",
+  "description": "A web dashboard with a chatbot that connects surplus food with people in need.",
+  "features": [
+   "Surplus listing",
+   "Pickup matching",
+   "Impact stats",
+   "Central dashboard",
+   "Chatbot assistant"
+  ],
+  "tech_stack": [
+   "React",
+   "Node.js",
+   "MongoDB"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/180"
+ },
+ {
+  "title": "Women Safety AI",
+  "domain": "Safety",
+  "description": "An AI-powered system using computer vision and machine learning that improves personal safety with quick alerts.",
+  "features": [
+   "SOS button",
+   "Live location",
+   "Trusted contacts",
+   "Machine learning model",
+   "Automated alerts"
+  ],
+  "tech_stack": [
+   "Python",
+   "TensorFlow",
+   "Flask"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/181"
+ },
+ {
+  "title": "Women Safety App",
+  "domain": "Safety",
+  "description": "A mobile app that improves personal safety with quick alerts.",
+  "features": [
+   "SOS button",
+   "Live location",
+   "Trusted contacts",
+   "Simple mobile interface",
+   "Push notifications"
+  ],
+  "tech_stack": [
+   "Flutter",
+   "Firebase"
+  ],
+  "source": "Devpost",
+  "url": "https://example.com/projects/182"
+ },
+ {
+  "title": "Women Safety IoT",
+  "domain": "Safety",
+  "description": "A low-cost IoT solution using sensors that improves personal safety with quick alerts.",
+  "features": [
+   "SOS button",
+   "Live location",
+   "Trusted contacts",
+   "Sensor data capture",
+   "Real-time monitoring"
+  ],
+  "tech_stack": [
+   "Arduino",
+   "ESP32",
+   "MQTT"
+  ],
+  "source": "College",
+  "url": "https://example.com/projects/183"
+ },
+ {
+  "title": "Women Safety Hub",
+  "domain": "Safety",
+  "description": "A web dashboard with a chatbot that improves personal safety with quick alerts.",
+  "features": [
+   "SOS button",
+   "Live location",
+   "Trusted contacts",
+   "Central dashboard",
+   "Chatbot assistant"
+  ],
+  "tech_stack": [
+   "React",
+   "Node.js",
+   "MongoDB"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/184"
+ },
+ {
+  "title": "Campus Security AI",
+  "domain": "Safety",
+  "description": "An AI-powered system using computer vision and machine learning that monitors entry and visitors on campus.",
+  "features": [
+   "Visitor logs",
+   "ID checks",
+   "Incident alerts",
+   "Machine learning model",
+   "Automated alerts"
+  ],
+  "tech_stack": [
+   "Python",
+   "TensorFlow",
+   "Flask"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/185"
+ },
+ {
+  "title": "Campus Security App",
+  "domain": "Safety",
+  "description": "A mobile app that monitors entry and visitors on campus.",
+  "features": [
+   "Visitor logs",
+   "ID checks",
+   "Incident alerts",
+   "Simple mobile interface",
+   "Push notifications"
+  ],
+  "tech_stack": [
+   "Flutter",
+   "Firebase"
+  ],
+  "source": "Devpost",
+  "url": "https://example.com/projects/186"
+ },
+ {
+  "title": "Campus Security IoT",
+  "domain": "Safety",
+  "description": "A low-cost IoT solution using sensors that monitors entry and visitors on campus.",
+  "features": [
+   "Visitor logs",
+   "ID checks",
+   "Incident alerts",
+   "Sensor data capture",
+   "Real-time monitoring"
+  ],
+  "tech_stack": [
+   "Arduino",
+   "ESP32",
+   "MQTT"
+  ],
+  "source": "College",
+  "url": "https://example.com/projects/187"
+ },
+ {
+  "title": "Campus Security Hub",
+  "domain": "Safety",
+  "description": "A web dashboard with a chatbot that monitors entry and visitors on campus.",
+  "features": [
+   "Visitor logs",
+   "ID checks",
+   "Incident alerts",
+   "Central dashboard",
+   "Chatbot assistant"
+  ],
+  "tech_stack": [
+   "React",
+   "Node.js",
+   "MongoDB"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/188"
+ },
+ {
+  "title": "Disaster Alerts AI",
+  "domain": "Safety",
+  "description": "An AI-powered system using computer vision and machine learning that sends early warnings during disasters.",
+  "features": [
+   "Alert broadcast",
+   "Safe zone maps",
+   "Offline mode",
+   "Machine learning model",
+   "Automated alerts"
+  ],
+  "tech_stack": [
+   "Python",
+   "TensorFlow",
+   "Flask"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/189"
+ },
+ {
+  "title": "Disaster Alerts App",
+  "domain": "Safety",
+  "description": "A mobile app that sends early warnings during disasters.",
+  "features": [
+   "Alert broadcast",
+   "Safe zone maps",
+   "Offline mode",
+   "Simple mobile interface",
+   "Push notifications"
+  ],
+  "tech_stack": [
+   "Flutter",
+   "Firebase"
+  ],
+  "source": "Devpost",
+  "url": "https://example.com/projects/190"
+ },
+ {
+  "title": "Disaster Alerts IoT",
+  "domain": "Safety",
+  "description": "A low-cost IoT solution using sensors that sends early warnings during disasters.",
+  "features": [
+   "Alert broadcast",
+   "Safe zone maps",
+   "Offline mode",
+   "Sensor data capture",
+   "Real-time monitoring"
+  ],
+  "tech_stack": [
+   "Arduino",
+   "ESP32",
+   "MQTT"
+  ],
+  "source": "College",
+  "url": "https://example.com/projects/191"
+ },
+ {
+  "title": "Disaster Alerts Hub",
+  "domain": "Safety",
+  "description": "A web dashboard with a chatbot that sends early warnings during disasters.",
+  "features": [
+   "Alert broadcast",
+   "Safe zone maps",
+   "Offline mode",
+   "Central dashboard",
+   "Chatbot assistant"
+  ],
+  "tech_stack": [
+   "React",
+   "Node.js",
+   "MongoDB"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/192"
+ },
+ {
+  "title": "Lost and Found AI",
+  "domain": "Safety",
+  "description": "An AI-powered system using computer vision and machine learning that helps people recover lost items.",
+  "features": [
+   "Item posting",
+   "Photo matching",
+   "Owner notifications",
+   "Machine learning model",
+   "Automated alerts"
+  ],
+  "tech_stack": [
+   "Python",
+   "TensorFlow",
+   "Flask"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/193"
+ },
+ {
+  "title": "Lost and Found App",
+  "domain": "Safety",
+  "description": "A mobile app that helps people recover lost items.",
+  "features": [
+   "Item posting",
+   "Photo matching",
+   "Owner notifications",
+   "Simple mobile interface",
+   "Push notifications"
+  ],
+  "tech_stack": [
+   "Flutter",
+   "Firebase"
+  ],
+  "source": "Devpost",
+  "url": "https://example.com/projects/194"
+ },
+ {
+  "title": "Lost and Found IoT",
+  "domain": "Safety",
+  "description": "A low-cost IoT solution using sensors that helps people recover lost items.",
+  "features": [
+   "Item posting",
+   "Photo matching",
+   "Owner notifications",
+   "Sensor data capture",
+   "Real-time monitoring"
+  ],
+  "tech_stack": [
+   "Arduino",
+   "ESP32",
+   "MQTT"
+  ],
+  "source": "College",
+  "url": "https://example.com/projects/195"
+ },
+ {
+  "title": "Lost and Found Hub",
+  "domain": "Safety",
+  "description": "A web dashboard with a chatbot that helps people recover lost items.",
+  "features": [
+   "Item posting",
+   "Photo matching",
+   "Owner notifications",
+   "Central dashboard",
+   "Chatbot assistant"
+  ],
+  "tech_stack": [
+   "React",
+   "Node.js",
+   "MongoDB"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/196"
+ },
+ {
+  "title": "Fire AI",
+  "domain": "Safety",
+  "description": "An AI-powered system using computer vision and machine learning that detects fire early in buildings.",
+  "features": [
+   "Smoke detection",
+   "Instant alarms",
+   "Evacuation guidance",
+   "Machine learning model",
+   "Automated alerts"
+  ],
+  "tech_stack": [
+   "Python",
+   "TensorFlow",
+   "Flask"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/197"
+ },
+ {
+  "title": "Fire App",
+  "domain": "Safety",
+  "description": "A mobile app that detects fire early in buildings.",
+  "features": [
+   "Smoke detection",
+   "Instant alarms",
+   "Evacuation guidance",
+   "Simple mobile interface",
+   "Push notifications"
+  ],
+  "tech_stack": [
+   "Flutter",
+   "Firebase"
+  ],
+  "source": "Devpost",
+  "url": "https://example.com/projects/198"
+ },
+ {
+  "title": "Fire IoT",
+  "domain": "Safety",
+  "description": "A low-cost IoT solution using sensors that detects fire early in buildings.",
+  "features": [
+   "Smoke detection",
+   "Instant alarms",
+   "Evacuation guidance",
+   "Sensor data capture",
+   "Real-time monitoring"
+  ],
+  "tech_stack": [
+   "Arduino",
+   "ESP32",
+   "MQTT"
+  ],
+  "source": "College",
+  "url": "https://example.com/projects/199"
+ },
+ {
+  "title": "Fire Hub",
+  "domain": "Safety",
+  "description": "A web dashboard with a chatbot that detects fire early in buildings.",
+  "features": [
+   "Smoke detection",
+   "Instant alarms",
+   "Evacuation guidance",
+   "Central dashboard",
+   "Chatbot assistant"
+  ],
+  "tech_stack": [
+   "React",
+   "Node.js",
+   "MongoDB"
+  ],
+  "source": "GitHub",
+  "url": "https://example.com/projects/200"
+ }
+]
