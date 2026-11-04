@@ -7,10 +7,6 @@
 <p align="center">
   AI-Powered Project Originality & Similarity Detection
 </p>
-# 🛡️ IDEAGUARD
-
-### AI-Powered Project Originality & Similarity Detection Platform
-
 <p align="center">
   <b>Protect Your Innovation. Discover What's Different.</b>
 </p>
